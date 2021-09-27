@@ -1,4 +1,4 @@
-"THE BEER-WARE LICENSE" (Revision 42)
+Refer to "THE BEER-WARE LICENSE" (Revision 42)
 by david87001
 david87001@gmail.com
 /*
